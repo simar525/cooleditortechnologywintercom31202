@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://intheknow.doo.ee/$1"
+ }
+  ]
+}
